@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "Name": "manager123",
+      "Email": "Manager123@gmail.com",
+      "id": 1
+    },
+    {
+      "Name": "Employee1",
+      "Email": "Employee1@gmail.com",
+      "id": 2
+    },
+    {
+      "Name": "Employee2",
+      "Email": "Employee2@gmail.com",
+      "id": 3
+    },
+    {
+      "Name": "Employee3",
+      "Email": "Employee3@gmail.com",
+      "id": 4
+    },
+    {
+      "Name": "Employee4",
+      "Email": "Employee4@gmail.com",
+      "id": 5
+    },
+    {
+      "Name": "Employee5",
+      "Email": "Employee5@gmail.com",
+      "id": 6
+    },
+    {
+      "Name": "Employee6",
+      "Email": "Employee6@gmail.com",
+      "id": 7
+    }
+  ]
+}
